@@ -2,7 +2,7 @@
 //  PlaySoundsViewController+Audio.swift
 //  PitchPerfect
 //
-//  Copyright © 2016 Udacity. All rights reserved.
+//  Copyright © 2018 Manali Rami. All rights reserved.
 //
 
 import UIKit
